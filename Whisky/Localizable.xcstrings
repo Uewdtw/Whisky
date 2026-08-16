@@ -57020,6 +57020,126 @@
         }
       }
     },
+    "library.card.configure" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configure Bottle"
+          }
+        }
+      }
+    },
+    "library.card.hint" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runs this program"
+          }
+        }
+      }
+    },
+    "library.card.neverRun" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Never run"
+          }
+        }
+      }
+    },
+    "library.empty.noBottle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Create a bottle to install Windows programs into."
+          }
+        }
+      }
+    },
+    "library.empty.noPrograms" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Programs you install into a bottle show up here."
+          }
+        }
+      }
+    },
+    "library.empty.title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nothing installed yet"
+          }
+        }
+      }
+    },
+    "library.launch.failed" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't launch"
+          }
+        }
+      }
+    },
+    "library.launch.steamGameMissing" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steam no longer lists this game as installed."
+          }
+        }
+      }
+    },
+    "library.search" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search programs"
+          }
+        }
+      }
+    },
+    "library.source.steam" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Steam"
+          }
+        }
+      }
+    },
+    "library.title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Library"
+          }
+        }
+      }
+    },
+    "sidebar.bottles" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bottles"
+          }
+        }
+      }
+    },
     "main.createFirst" : {
       "localizations" : {
         "ar" : {
