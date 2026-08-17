@@ -21144,6 +21144,16 @@
         }
       }
     },
+    "bottle.orphan.stop" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stop Bottle"
+          }
+        }
+      }
+    },
     "bottle.orphan.tooltip" : {
       "localizations" : {
         "ar" : {
@@ -57050,6 +57060,56 @@
         }
       }
     },
+    "library.card.launcher" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Launcher"
+          }
+        }
+      }
+    },
+    "library.card.launching" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starting…"
+          }
+        }
+      }
+    },
+    "library.card.running" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Running"
+          }
+        }
+      }
+    },
+    "library.card.stop" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stop"
+          }
+        }
+      }
+    },
+    "library.card.unpin" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove Pin"
+          }
+        }
+      }
+    },
     "library.empty.noBottle" : {
       "localizations" : {
         "en" : {
@@ -57070,6 +57130,16 @@
         }
       }
     },
+    "library.empty.pinHint" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open a bottle and pin a program to see it here."
+          }
+        }
+      }
+    },
     "library.empty.title" : {
       "localizations" : {
         "en" : {
@@ -57086,6 +57156,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Couldn't launch"
+          }
+        }
+      }
+    },
+    "library.launch.started" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starting %@…"
           }
         }
       }
@@ -57116,6 +57196,46 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Steam"
+          }
+        }
+      }
+    },
+    "library.sort" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sort"
+          }
+        }
+      }
+    },
+    "library.sort.bottle" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bottle"
+          }
+        }
+      }
+    },
+    "library.sort.name" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        }
+      }
+    },
+    "library.sort.recent" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recently Played"
           }
         }
       }
