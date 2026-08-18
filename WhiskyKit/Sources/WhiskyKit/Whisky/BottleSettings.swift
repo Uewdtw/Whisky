@@ -838,8 +838,12 @@ public struct BottleSettings: Codable, Equatable {
         // Backend-conditional env vars and DLL overrides
         switch resolvedBackend {
         case .d3dMetal, .recommended:
-            // D3DMetal is Wine's default on macOS -- no special env vars needed
-            break
+            // D3DMetal is Wine's default on macOS -- no special env vars needed,
+            // beyond opting in to the DLSS-to-MetalFX path. The DLL placement
+            // that actually gates it happens in `Wine.applyMetalFX` at launch.
+            if metalFX {
+                builder.set("D3DM_ENABLE_METALFX", "1", layer: .bottleManaged)
+            }
 
         case .dxvk:
             // DXVK: DLL overrides + env vars
